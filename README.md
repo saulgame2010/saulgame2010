@@ -37,4 +37,4 @@ I'm a developer in progress looking for improve my knowledge and abilities to be
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulgame2010&theme=dracula&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulgame2010&theme=dracula&hide_border=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
