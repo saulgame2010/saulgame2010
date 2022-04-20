@@ -49,9 +49,9 @@ I'm a developer in progress looking for improve my knowledge and abilities to be
 [<img align="left" alt="saulgame2009 | Twitter" width="22px" src="https://user-images.githubusercontent.com/35746616/164317021-f09893a7-de82-4315-ad8e-2bf1f37cb2f9.svg" />][twitter]
 [<img align="left" alt="Saúl García Medina | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/35746616/164317017-8a37cfb3-a5ec-41a7-bc35-2a41699fc720.svg" />][linkedin]
 [<img align="left" alt="saul1262 | Instagram" width="22px" src="https://user-images.githubusercontent.com/35746616/164317016-a3390e10-36ce-4a98-9d2f-e9c7d49a2092.svg" />][instagram]
-[<img align="left" alt="saulgame2010 | Github" width="22px" src="https://user-images.githubusercontent.com/35746616/164317013-0e8e4dcd-786c-4b68-9f97-23170233a3e2.svg" />][spotify]
-[<img align="left" alt="Saúl García Medina | Spotify" width="22px" src="https://user-images.githubusercontent.com/35746616/164317018-96117cd7-5b7f-4719-8d31-e04cba2376ff.svg" />][github]
-[<img align="left" alt="Saúl García Medina | Spotify" width="22px" src="https://user-images.githubusercontent.com/35746616/164319185-df89861a-d6da-4ba5-8e59-7d2ba131b3e5.svg" />][youtube]
+[<img align="left" alt="saulgame2010 | Github" width="22px" src="https://user-images.githubusercontent.com/35746616/164317013-0e8e4dcd-786c-4b68-9f97-23170233a3e2.svg" />][github]
+[<img align="left" alt="Saúl García Medina | Spotify" width="22px" src="https://user-images.githubusercontent.com/35746616/164317018-96117cd7-5b7f-4719-8d31-e04cba2376ff.svg" />][spotify]
+[<img align="left" alt="Saúl García Medina | YouTube" width="22px" src="https://user-images.githubusercontent.com/35746616/164319185-df89861a-d6da-4ba5-8e59-7d2ba131b3e5.svg" />][youtube]
 <br/>
 
 [twitter]: https://twitter.com/saulgame2009
