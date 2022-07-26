@@ -33,7 +33,7 @@ Web
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Flask-black?style=flat&logo=flask&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Flask-ffffff?style=flat&logo=flask&logoColor=black">
 <img src="http://img.shields.io/badge/-Java%20Servlets-F89820?style=flat&logo=java&logoColor=white">
 <img src="http://img.shields.io/badge/-Java%20Web%20Pages-F89820?style=flat&logo=java&logoColor=white">  
 Desktop  
