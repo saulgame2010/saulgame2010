@@ -26,30 +26,35 @@ I'm a developer in progress looking for improve my knowledge and abilities to be
 # Technologies
 ## These are the technologies I've worked with
 Web   
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src = "https://img.shields.io/badge/-HTML5-E54C21?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-7431F9?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-F7E018?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-JQuery-0769AD?style=flat&logo=jquery&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Express.js-EEEEEE?style=flat&logo=expressjs&logoColor=black">
+<img src="https://img.shields.io/badge/-Node.js-026E00?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Flask-ffffff?style=flat&logo=flask&logoColor=black">
-<img src="http://img.shields.io/badge/-Java%20Servlets-F89820?style=flat&logo=java&logoColor=white">
-<img src="http://img.shields.io/badge/-Java%20Web%20Pages-F89820?style=flat&logo=java&logoColor=white">  
+<img src="http://img.shields.io/badge/-Java%20Servlets-ED2025?style=flat&logo=java&logoColor=white">
+<img src="http://img.shields.io/badge/-Java%20Web%20Pages-ED2025?style=flat&logo=java&logoColor=white">  
 Desktop  
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+<img src="http://img.shields.io/badge/-Java-ED2025?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">  
+<img src="https://img.shields.io/badge/-Python-3E7BAC?style=flat&logo=python&logoColor=FFDF5A">  
 Database  
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-PostgreSQL-32658F?style=flat&logo=postgresql&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">  
 Cloud  
-<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-185ABC?style=flat&logo=google%20cloud&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">  
 Tools  
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">  
+<img src="http://img.shields.io/badge/-Git-F64D27?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-22272E?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-005BA4?style=flat&logo=visual%20studio%20code&logoColor=white">  
+Operating systems  
+<img src="http://img.shields.io/badge/-Windows-0067B8?style=flat&logo=windows&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Debian-010027?style=flat&logo=debian&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Linux%20Mint-5DB652?style=flat&logo=linuxmint&logoColor=FFFFFF">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulgame2010&theme=dracula&hide_border=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
