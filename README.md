@@ -9,7 +9,6 @@
 I'm a developer in progress looking for improve my knowledge and abilities to be better in this wonderful world of technology.
 - 🔭 I’m currently working on my school projects, specially in my graduation project. Spoiler alert... it's a VR experience 🤞🏽
 - 🌱 I’m currently learning 3D modeling, C# and Unity for my project
-- 🤔 I’m looking for help with flask with netmiko and GNS3 to configure a network 😥
 - 💬 Ask me about what makes me happy 😁
 - ⚡ Fun fact: I'm from Mexico and I don't like aguacate and spicy food 😶😛
 
