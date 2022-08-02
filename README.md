@@ -55,6 +55,11 @@ Operating systems
 <img src="http://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Linux%20Mint-5DB652?style=flat&logo=linuxmint&logoColor=FFFFFF">
 
+# Currently learning
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Node%20JS-43853D?style=flat&logo=nodejs&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=ffffff">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulgame2010&theme=dracula&hide_border=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
