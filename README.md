@@ -57,7 +57,7 @@ Operating systems
 Currently learning  
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000">
 <img src="https://img.shields.io/badge/-Vue%20JS-42D392?style=flat&logo=vue&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Spring-6CB52D?style=flat&logo=spring&logoColor=ffffff">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulgame2010&theme=dracula&hide_border=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
