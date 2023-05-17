@@ -28,14 +28,14 @@ Web
 <img src="https://img.shields.io/badge/-JavaScript-F7E018?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-TypeScript-2F74C0?style=flat&logo=typescript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-JQuery-0769AD?style=flat&logo=jquery&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Express.js-EEEEEE?style=flat&logo=expressjs&logoColor=black">
+<img src="https://img.shields.io/badge/-Express.js-EEEEEE?style=flat&logo=express.js&logoColor=black">
 <img src="https://img.shields.io/badge/-Node.js-026E00?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Flask-ffffff?style=flat&logo=flask&logoColor=black">
-<img src="http://img.shields.io/badge/-Java%20Servlets-ED2025?style=flat&logo=java&logoColor=white">
-<img src="http://img.shields.io/badge/-Java%20Web%20Pages-ED2025?style=flat&logo=java&logoColor=white">  
+<img src="http://img.shields.io/badge/-Java%20Servlets-ED2025?style=flat&logo=openjdk&logoColor=white">
+<img src="http://img.shields.io/badge/-Java%20Web%20Pages-ED2025?style=flat&logo=openjdk&logoColor=white">  
 Desktop  
-<img src="http://img.shields.io/badge/-Java-ED2025?style=flat&logo=java&logoColor=white">
+<img src="http://img.shields.io/badge/-Java-ED2025?style=flat&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Python-3E7BAC?style=flat&logo=python&logoColor=FFDF5A">  
 Database  
