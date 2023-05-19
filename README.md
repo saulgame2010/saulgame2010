@@ -32,8 +32,7 @@ Web
 <img src="https://img.shields.io/badge/-Node.js-026E00?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-PHP-8892BF?style=for-the-badge&logo=php&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black">
-<img src="http://img.shields.io/badge/-Java%20Servlets-ED2025?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="http://img.shields.io/badge/-Java%20Web%20Pages-ED2025?style=for-the-badge&logo=openjdk&logoColor=white">  
+<img src="http://img.shields.io/badge/-Java%20EE-ED2025?style=for-the-badge&logo=openjdk&logoColor=white">  
 Desktop  
 <img src="http://img.shields.io/badge/-Java-ED2025?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff">
