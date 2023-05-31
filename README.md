@@ -23,23 +23,25 @@ I'm a developer in progress looking for improve my knowledge and abilities to be
 # Technologies
 ## These are the technologies I've worked with
 Web   
-<img src = "https://img.shields.io/badge/-HTML5-E54C21?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-7431F9?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Express.js-EEEEEE?style=for-the-badge&logo=express.js&logoColor=black">
+<img src="https://img.shields.io/badge/-Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black">
+<img src="https://img.shields.io/badge/-HTML5-E54C21?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-Java%20EE-ED2025?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Node.js-026E00?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-PHP-8892BF?style=for-the-badge&logo=php&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black">
-<img src="http://img.shields.io/badge/-Java%20EE-ED2025?style=for-the-badge&logo=openjdk&logoColor=white">  
+<img src="https://img.shields.io/badge/-React-41a9f6?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/-TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=ffffff">  
 Desktop  
-<img src="http://img.shields.io/badge/-Java-ED2025?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Java-ED2025?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-3E7BAC?style=for-the-badge&logo=python&logoColor=FFDF5A">  
 Database  
-<img src="https://img.shields.io/badge/-PostgreSQL-32658F?style=for-the-badge&logo=postgresql&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=FFFFFF">  
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-PostgreSQL-32658F?style=for-the-badge&logo=postgresql&logoColor=ffffff">  
 Cloud  
 <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-185ABC?style=for-the-badge&logo=google%20cloud&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">  
@@ -48,14 +50,14 @@ Tools
 <img src="http://img.shields.io/badge/-Github-22272E?style=for-the-badge&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-005BA4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  
 Operating systems  
-<img src="http://img.shields.io/badge/-Windows-0067B8?style=for-the-badge&logo=windows&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Debian-010027?style=for-the-badge&logo=debian&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Linux%20Mint-5DB652?style=for-the-badge&logo=linuxmint&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Linux%20Mint-5DB652?style=for-the-badge&logo=linuxmint&logoColor=FFFFFF">  
+<img src="http://img.shields.io/badge/-Windows-0067B8?style=for-the-badge&logo=windows&logoColor=FFFFFF">  
 Currently learning  
 <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Vue%20JS-42D392?style=for-the-badge&logo=vue.js&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Spring-6CB52D?style=for-the-badge&logo=spring&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Vue%20JS-42D392?style=for-the-badge&logo=vue.js&logoColor=ffffff">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saulgame2010&theme=dracula&hide_border=true&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
