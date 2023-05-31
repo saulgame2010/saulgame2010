@@ -36,7 +36,8 @@ Web
 <img src="https://img.shields.io/badge/-React-41a9f6?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/-TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=ffffff">  
 Desktop  
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/-Java-ED2025?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-3E7BAC?style=for-the-badge&logo=python&logoColor=FFDF5A">  
 Database  
